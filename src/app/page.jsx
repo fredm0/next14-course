@@ -1,5 +1,9 @@
+// import navBar from '@/src/@/components/navbar/navbar.jsx'
+
 const Home = () => {
-  return <div>Hello World!</div>;
+  return (
+          <div>Homepage</div>
+          )
 };
 
 export default Home;
